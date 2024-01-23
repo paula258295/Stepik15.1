@@ -1,2 +1,0 @@
-# requirements.txt
-unittest==2.7.1
